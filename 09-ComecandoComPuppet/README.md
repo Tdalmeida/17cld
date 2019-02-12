@@ -1,6 +1,6 @@
 # Começando com o Puppet
 
-O `Puppet` provê ferramentas para automatizat a gestão de sua infra estrutura, sendo um produto open source com uma grande comunidade de usuários e desenvolvedores.
+O `Puppet` provê ferramentas para automatizar a gestão de sua infra estrutura, sendo um produto open source com uma grande comunidade de usuários e desenvolvedores.
 
 Ao trabalhar com o `Puppet`, você pode escolher entre basicamente duas arquiteturas: uma arquitetura client-server, utilizando o `Puppet Master` e o `Puppet Agent` ou então uma arquitetura stand-alone, fazendo uso do `Puppet Apply`.
 
